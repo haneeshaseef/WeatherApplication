@@ -56,7 +56,7 @@ const HomePage = () => {
   };
 
   return (
-    <div className="app flex flex-col items-center bg-gradient-to-r from-gray-200 to-gray-500">
+    <div className="app flex flex-col items-center bg-gradient-to-r from-gray-200 to-gray-500 min-h-screen">
       <div className="flex  items-start gap-3">
         <h1 className="py-4 text-3xl mt-3">Weather App</h1>
         <div className="py-5 sm:flex-col ">
